@@ -1,14 +1,17 @@
-## 👨‍💻 Olá, meu nome é <strong>Thomaz Rizzo!</strong>
+## 👨‍💻 Hello, mmy name is<strong>Thomaz Rizzo!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Aspiring Data Analyst, passionate about games, geek universe, games, technology and statistics.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 If you wish to contact me or have any questions about my projects, feel free to reach me: thomaz.rizzo@gmail.com.
 
-👨‍🎓       
-       Análise de dados utilizando Python (Pandas, NumPy) & MySQL;
-       Visualização dos dados (Tableau & Seaborn);
-       Construção, Avaliação e Implantação de Modelos e Pipelines de Machine Learning (Scikit-Learn);
-       Estatística Inferencial em Python & Business Intelligence;;
+👨‍🎓 Recent graduate of the Data Analytics course at Ironhack;
+
+🚀 Course scope:
+
+       Data analysis using Python (Pandas, NumPy) & MySQL;
+       Data Visualization (Tableau & Seaborn);
+       Building, Evaluating and Deploying Machine Learning Models and Pipelines (Scikit-Learn);
+       Inferential Statistics in Python & Business Intelligence;;
        Data Wrangling, Data Cleaning, API & Web Scraping.
        Technologies: Python, PostgreSQL, Pandas, Matplotlib, Seaborn, Scikit-Learn, Machine Learning, Git, Tableau.
        Methodologies & Techniques: Data Cleaning, Data Manipulation, Data Mining (APIs, Web Scraping), Data Visualization, Data Pipelines, 
@@ -16,7 +19,7 @@
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -29,5 +32,5 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ My GitHub account info
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)

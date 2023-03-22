@@ -33,4 +33,4 @@
 ---
 
 ## ⭐ My GitHub account info
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=TBRizzo&hide=html&layout=compact&theme=Tokyonight)](https://github.com/iuricode/)
+[![TBRizzo](https://github-readme-stats.vercel.app/api/top-langs/?username=TBRizzo&hide=html&layout=compact&theme=tokyonight)](https://github.com/TBRizzo/)

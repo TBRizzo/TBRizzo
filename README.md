@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Thomaz Rizzo!</strong>
+## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
 
 > Faça uma breve aprensentação sobre você e a sua área.
 
@@ -10,7 +10,7 @@
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="[https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png](https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg)" alt="Tableau"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -26,4 +26,4 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TBRizzo&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)

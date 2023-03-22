@@ -32,5 +32,5 @@
 
 ---
 
-## ⭐ My GitHub account info
+## 📈 Statistics
 [![TBRizzo](https://github-readme-stats.vercel.app/api/top-langs/?username=TBRizzo&hide=html&layout=compact&theme=tokyonight)](https://github.com/TBRizzo/)

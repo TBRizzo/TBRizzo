@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+## 💜 Olá, meu nome é <strong>Thomaz Rizzo!</strong>
 
 > Faça uma breve aprensentação sobre você e a sua área.
 
@@ -26,4 +26,4 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TBRizzo&show_icons=true)

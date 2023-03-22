@@ -2,7 +2,7 @@
 
 > Aspiring Data Analyst, passionate about games, geek universe, games, technology and statistics.
 
-💬 If you wish to contact me or have any questions about my projects, feel free to reach me: thomaz.rizzo@gmail.com.
+💬 If you wish to contact me or have any questions about my projects, feel free to reach me.
 
 👨‍🎓 Recent graduate of the Data Analytics course at Ironhack;
 
@@ -34,3 +34,8 @@
 
 ## 📈 Statistics
 [![TBRizzo](https://github-readme-stats.vercel.app/api/top-langs/?username=TBRizzo&hide=html&layout=compact&theme=tokyonight)](https://github.com/TBRizzo/)
+
+---
+
+## 🌎 Where to find me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thomazrizzo/)

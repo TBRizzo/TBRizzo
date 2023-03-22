@@ -33,4 +33,4 @@
 ---
 
 ## ⭐ My GitHub account info
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TBRizzo&show_icons=true)
+![languagestats](https://github-readme-stats.vercel.app/api/top-langs/?username=TBrizzo&hide=html&layout=compact&theme=Tokyonight)](https://github.com/TBRizzo/)

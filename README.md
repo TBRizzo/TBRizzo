@@ -11,9 +11,9 @@
        Data analysis using Python (Pandas, NumPy) & MySQL;
        Data Visualization (Tableau & Seaborn);
        Building, Evaluating and Deploying Machine Learning Models and Pipelines (Scikit-Learn);
-       Inferential Statistics in Python & Business Intelligence;;
-       Data Wrangling, Data Cleaning, API & Web Scraping.
-       Technologies: Python, PostgreSQL, Pandas, Matplotlib, Seaborn, Scikit-Learn, Machine Learning, Git, Tableau.
+       Inferential Statistics in Python & Business Intelligence;
+       Data Wrangling, Data Cleaning, API & Web Scraping;
+       Technologies: Python, PostgreSQL, Pandas, Matplotlib, Seaborn, Scikit-Learn, Machine Learning, Git, Tableau;
        Methodologies & Techniques: Data Cleaning, Data Manipulation, Data Mining (APIs, Web Scraping), Data Visualization, Data Pipelines, 
        Descriptive Statistics, Business Intelligence, Supervised and Unsupervised Machine Learning.
 

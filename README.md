@@ -1,6 +1,6 @@
 ## 👨‍💻 Hello, my name is <strong>Thomaz Rizzo!</strong>
 
-> Aspiring Data Analyst, passionate about games, geek universe, games, technology and statistics.
+> Aspiring Data Analyst, passionate about the geek universe, games, technology and statistics.
 
 💬 If you wish to contact me or have any questions about my projects, feel free to reach me.
 
